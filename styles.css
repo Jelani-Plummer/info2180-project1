@@ -13,7 +13,6 @@ body{
 
 header{
     background-color: white;
-    padding-top: 50px;
 }
 
 h1{
@@ -33,6 +32,7 @@ li{
 
 .overview-hero{
     background-color: #E2E8F0;
+    padding-top: 5px;
     padding-bottom: 30px;
 }
 
@@ -161,6 +161,7 @@ li a:hover{
 
 .learn-about .container{
     border-color: #E2E8F0;
+    text-align: left;
 }
 
 .learn-about h2{
